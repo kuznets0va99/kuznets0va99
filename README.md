@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">👋Hi there👋</h1>
+<h3 align="center">💻I`m beginner web developer from Russia💻</h3>
+<br>
+<div align="center">
+  🔹 I studying new technologies <br/>
+  🔹 I plan to study Angular, Vue, Ruby
+</div>
 
-<!--
-**kuznets0va99/kuznets0va99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🛠️Languages and Tools🛠️</h3>
+<br/>
+<div align=center>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,ts,npm,vite,react,redux,sass,tailwind,webpack" />
+  <img src="https://skillicons.dev/icons?i=cs,figma,git,github,ps,vscode" />
+</div>
+<div align="center">
+  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Golubok/) 
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuznetsovaviktorya91@gmail.com)
+</div>
+<div align="center">
+  <h3>☄️My Stats☄️</h3>
+  
+[![acc rank](https://www.codewars.com/users/Golubok/badges/large)](https://www.codewars.com/users/Golubok)<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuznets0va99&layout=compact&theme=vision-friendly-dark)
+</div>
