@@ -2,7 +2,7 @@
 <h3 align="center">💻I`m beginner web developer from Russia💻</h3>
 <br>
 <div align="center">
-  🔹 I studying new technologies <br/>
+  🔹 I love to studying something new in programming <br/>
   🔹 I plan to study Angular, Vue, Ruby
 </div>
 
